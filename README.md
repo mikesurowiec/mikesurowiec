@@ -1,54 +1,107 @@
 `consensus` for changes to consensus critical code
-  - `doc` for changes to the documentation
-  - `qt` or `gui` for changes to bitcoin-qt
-  - `log` for changes to log messages
-  - `mining` for changes to the mining code
-  - `net` or `p2p` for changes to the peer-to-peer network code
-  - `refactor` for structural changes that do not change behavior
-  - `rpc`, `rest` or `zmq` for changes to the RPC, REST or ZMQ APIs
-  - `script` for changes to the scripts and tools
-  - `test`, `qa` or `ci` for changes to the unit tests, QA tests or CI code
-  - `util` or `lib` for changes to the utils or libraries
-  - `wallet` for changes to the wallet code
-  - `build`
+
+- `doc` for changes to the documentation
+
+- `qt` or `gui` for changes to bitcoin-qt
+
+- `log` for changes to log messages
+
+- `mining` for changes to the mining code
+
+
+- `net` or `p2p` for changes to the peer-to-peer network code
+
+- `refactor` for structural changes that do not change behavior
+
+- `rpc`, `rest` or `zmq` for changes to the RPC, REST or ZMQ APIs
+
+- `script` for changes to the scripts and tools
+
+- `test`, `qa` or `ci` for changes to the unit tests, QA tests or CI code
+
+- `util` or `lib` for changes to the utils or libraries
+
+- `wallet` for changes to the wallet code
+
+- `build`
+
 From 24f62771b9ff1f37df6ef746b9b207699835a3a0 Mon Sep 17 00:00:00 2001
+
 From: "ZACHRY T WOODzachryiixixiiwood@gmail.com"
- <109656750+zakwarlord7@users.noreply.github.com>
+
+<109656750+zakwarlord7@users.noreply.github.com>
+
 Date: Wed, 16 Nov 2022 22:48:46 -0600
+
 Subject: [PATCH] Update CODE_OF_CONDUCT.md
 
+
+
 ---
- CODE_OF_CONDUCT.md | 521 +++++++++++++++++++++++++++++++++++++++++++++
- 1 file changed, 521 insertions(+)
+
+CODE_OF_CONDUCT.md | 521 +++++++++++++++++++++++++++++++++++++++++++++
+
+1 file changed, 521 insertions(+)
+
+
 
 diff --git a/CODE_OF_CONDUCT.md b/CODE_OF_CONDUCT.md
+
 index e66f6d941d8c..804a12ec8f37 100644
+
 --- a/CODE_OF_CONDUCT.md
+
 +++ b/CODE_OF_CONDUCT.md
+
 @@ -1,5 +1,526 @@
- # Contributor Covenant Code of Conduct
+
+# Contributor Covenant Code of Conduct
+
 +run:actions:uses:steps:Skip to content
+
 +Your account has been flagged.
+
 +Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
+
 +bitcoin-core
+
 +/
+
 +gitian.sigs
+
 +Code
+
 +Issues
+
 +29
+
 +Pull requests
+
 +Security
+
 +Insights
+
+
 +Jump to bottom
+
 +🐛'''fix'v'new #1542
+
 + Open
-+Iixixi opened this issue yesterday · 0 comments
+
+Iixixi opened this issue yesterday · 0 comments
+
 +Comments
+
 +@Iixixi Iixixi commented yesterday • 
+
 +Hello-World-Bug-Fix
+
 +
+
 +Expected behavior
+
 +
+
 +Actual behavior
 +
 +To reproduce
@@ -63,87 +116,188 @@ index e66f6d941d8c..804a12ec8f37 100644
 +    std::string m_name;
 +
 +​public:​
-+    ​bool​ ​Function​(​const​ std::string& s, ​int​ n)
+
++ 
++       ​bool​ ​Function​(​const​ std::string& s, ​int​ n)
+
+
+
 +    {
+
 +        ​//​ Comment summarising what this section of code does​
+
 +        ​for​ (​int​ i = ​0​; i < n; ++i) {
+
 +            ​int​ total_sum = ​0​;
+
 +            ​//​ When something fails, return early​
+
 +            ​if​ (!​Something​()) ​return​ ​false​;
+
 +            ...
+
 +            ​if​ (​SomethingElse​(i)) {
+
 +                total_sum += ​ComputeSomething​(g_count)
+
 +                ​DoSomething​(m_name, total_sum)
+
 +        'Success return is usually at the end​'
+
 +        ​'rereturn'true','​@iixixi/iixixi.READ.md'
+
 +'Return::'#'
-+#The build system is set up to compile an executable called test_bitcoin that runs all of the unit tests. The main source file for the test library is found in util/setup_common.cpp.
+
++#The build system is set up to compile an executable called test_bitcoin that runs all of the unit tests. The main source file for the test library is 
+
+found in util/setup_common.cpp.
 +
 +base_directory
+
 +​$ ./copyright_header.py report 
+
 +base_directory
+
 + [Zachry T Wood III]
-+$ ./copyright_header.py update $ https://github.com/@iixixi/iixixi/READ.md@iixixi/iixixi/read.md/workflows
-+update translations, Transactional primary payment name address city state country phone number ssid and DOB for all bank filing records.
 +
-+NAME: 2003©®™bitore,©®™ bitcoin,©®™ bullion©®™ {[✓]}©®™(c)(r)2003-°° {[✓]}Zachry Tyler Wood 2722 Arroyo Ave Dallas Tx 75219, I made my first runescape gold pieces script to understand object construction: and how they made Runescape gold peices but I pasted it between two other scripts and tried to CopyRight the patent "gp",
-+Thank god I had an angel watcheling over my shoulder because I didn't realize it being a mad ass snot nosed kid that has made some ugly orange coin after being promoted that I made a creation that didn't have an object I'd. And needed to be named and given an I'd. And finished being created to have a fully contrusted object so I drug a picture to the yellow drag img here dialog box, and then because it was enlayed upon one another it made me choose a colour after I didn't like the black one It produced automatically from the png it produced automatically from the image I had pulled into the dialog box
-+I accidentally implimentred a confidential token into the item i.d. area that was an unproduced un identifiable non recorded item in the database library and needed to be given a name a number and a look so it wasn't a warning that popped up it was a blessing 🤣 object_token@Iixixi.git {object_token@Iixixi.git})value bitore now called bitcoin given to Vanyessa Countryman by Zachry wood at age 9
+
+$ ./copyright_header.py update $ https://github.com/@iixixi/iixixi/READ.md@iixixi/iixixi/read.md/workflows+update translations, Transactional primary
+
+payment name address city state country phone number ssid and DOB for all bank filing records.
+
++
+
++NAME: 2003©®™bitore,©®™ bitcoin,©®™ bullion©®™ {[✓]}©®™(c)(r)2003-°° {[✓]}Zachry Tyler Wood 2722 Arroyo Ave Dallas Tx 75219, I made my first runescape 
+
+gold pieces script to understand object construction: and how they made Runescape gold peices but I pasted it between two other scripts and tried to 
+
+CopyRight the patent "gp",
+
++Thank god I had an angel watcheling over my shoulder because I didn't realize it being a mad ass snot nosed kid that has made some ugly orange coin after 
+
+being promoted that I made a creation that didn't have an object I'd. And needed to be named and given an I'd. And finished being created to have a fully 
+
+
+contrusted object so I drug a picture to the yellow drag img here dialog box, and then because it was enlayed upon one another it made me choose a colour 
+
+after I didn't like the black one It produced automatically from the png it produced automatically from the image I had pulled into the dialog box
+
+
+
++I accidentally implimentred a confidential token into the item i.d. area that was an unproduced un identifiable non recorded item in the database library 
+and needed to be given a name a number and a look so it wasn't a warning that popped up it was a blessing 🤣 object_token@Iixixi.git 
+
+{object_token@Iixixi.git})value bitore now called bitcoin given to Vanyessa Countryman by Zachry wood at age 9
 +Name:: Shining_120@yahoo.com or zakwarlord7@HOTMAIL.com/repository@ZachryTylerWood.Administrator@.git]::request::PUSH:e.g@iixixi/iixixi.Read.md/Paradise
+
 +PUSH@IIXIXI/IIXIXI/READ.MD
-+https://github.com/bitore/bitcoin/branches/trunk/@iixixii.json.yaml.docx/versioning@v-0.1.6,3.9.11xprocess.md#syncing-with-TEIRAFOURM: actually called TIERAFORM
+
++https://github.com/bitore/bitcoin/branches/trunk/@iixixii.json.yaml.docx/versioning@v-0.1.6,3.9.11xprocess.md#syncing-with-TEIRAFOURM: actually called 
+TIERAFORM
+
 +dnspython
+
 +latest
+
 +Search docs
+
+
 +CONTENTS:
 +
+
+
 +What’s New in built with Bundled with dnspython using their builder not that they are the builder you've got it all wrong
 +Community
+
+
 +Installation
+
 +Dnspython Manual
+
 +DNS Names
+
 +DNS Rdata
+
 +DNS Messages
+
 +The dns.message.Message Class
+
 +Making DNS Messages
+
 +Message Flags
+
 +Message Opcodes
 +Message Rcodes
+
 +Message EDNS Options
+
 +The dns.message.QueryMessage Class
+
 +The dns.message.ChainingResult Class
+
 +The dns.update.UpdateMessage Class
+
 +DNS Query Support
+
 +Stub Resolver
+
 +DNS Zones
+
 +DNSSEC
+
 +Asynchronous I/O Support
+
 +Exceptions
+
 +Miscellaneous Utilities
+
 +A Note on Typing
+
 +DNS RFC Reference
+
 +Dnspython License
+
 +dnspython
+
 +Docs » Dnspython Manual » DNS Messages » The dns.message.Message Class
+
 +The dns.message.Message Class
+
 +This is the base class for all messages, and the class used for any DNS opcodes that do not have a more specific class.
+
 +
+
 +classdns.message.Message(id=none of your business it was private repository)[]
+
 +A DNS message.
+
 +
+
 +id
+
 +An int, the query id; the default is a randomly chosen id.
+
 +
+
 +flags
+
 +An int, the DNS flags of the message.
  
+
 +sections
+
 +A list of lists of dns.rrset.RRset objects.
+
 +
+
 +edns
+
 +An int, the EDNS level to use. The default is -1, no EDNS.
+
 +
+
 +ednsflags
+
 +An int, the EDNS flags.
 +
 +payload
