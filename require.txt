@@ -15,9 +15,6 @@ DALLAS
 TX: NO State Income Tax
 rate units year to date Other Benefits and
 EPS 112.2 674678000 75698871600 Information
-        Pto Balance
-        Total Work Hrs
-Gross Pay 75698871600         Important Notes
 COMPANY PH Y: 650-253-0000
 Statutory BASIS OF PAY: BASIC/DILUTED EPS
 Federal Income Tax                
