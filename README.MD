@@ -1,4 +1,4 @@
-USR/BIN/ENV RUN
+#!/USR/BIN/ENV RUN
 BEGIN
 GLOW4
 **Income Verification :**
