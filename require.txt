@@ -29,7 +29,8 @@ ALPHABET INCOME CHECK NO.
 1600 AMPIHTHEATRE  PARKWAY MOUNTAIN VIEW CA 94043 222129
 DEPOSIT TICKET
 Deposited to the account Of xxxxxxxx6547
-Deposits and Other Additions                                                                                           Checks and Other Deductions Amount
+Deposits and Other Additions                                                                                           
+Checks and Other Deductions Amount
 Description Description I Items 5.41
 ACH Additions Debit Card Purchases 1 15.19
 POS Purchases 2 2,269,894.11
