@@ -198,7 +198,8 @@ Basic net income per share of Class A and B common stock and Class C capital sto
 Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share)
 For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see the seperate Instructions.
 Returned for Signature
-Date.                                                               2022-09-01
+Date.                                                               
+2022-09-01
 IRS RECIEVED
 Department of the Treasury
 Internal Revenue Service
@@ -228,7 +229,7 @@ Basic net income per share of Class A and B common stock and Class C capital sto
 Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share)
 20210418
 Rate Units Total YTD Taxes / Deductions Current YTD
-- - 70842745000 70842745000 Federal Withholding 00000 188813800
+70842745000 70842745000 Federal Withholding 00000 188813800
 FICA - Social Security 00000 853700
 FICA - Medicare 00000 11816700
 Employer Taxes
