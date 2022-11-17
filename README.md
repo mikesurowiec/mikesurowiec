@@ -1,7 +1,9 @@
-Income Verification :**
+USR/BIN/ENV RUN
+BEGIN
+GLOW4
+**Income Verification :**
 C&E 1049 Department of the Treasury --- Internal Revenue Service (99) OMB No.  1545-0074 IRS Use Only --- Do not write or staple in this space
 1040 U.S. Individual Income Tax Return 1 Earnings Statement
-
 ALPHABET         Period Beginning:2019-09-28
 1600 AMPITHEATRE PARKWAY DR Period Ending: 2021-09-29
 MOUNTAIN VIEW, C.A., 94043 Pay Day: 2022-01-31
@@ -21,8 +23,7 @@ Statutory BASIS OF PAY: BASIC/DILUTED EPS
 Federal Income Tax                
 Social Security Tax                
 YOUR BASIC/DILUTED EPS RATE HAS BEEN CHANGED FROM 0.001 TO 112.20 PAR SHARE VALUE
-Medicare Tax                
-       
+Medicare Tax                    
 Net Pay 70842743866 70842743866
 CHECKING        
 Net Check 70842743866        
@@ -39,18 +40,10 @@ ACH Deductions 5 82
 Service Charges and Fees 3 5.2
 Other Deductions 1 2,270,001.91
 Total Total 12
-
-
 Daily Balance
-
 Date Ledger balance Date Ledger balance Date Ledger balance
 7/30 107.8 8/3 2,267,621.92- 8/8 41.2
 8/1 78.08 8/4 42.08 8/10 2150.19-
-
-
-
-
-
 Daily Balance continued on next page
 Date
 8/3 2,267,700.00 ACH Web Usataxpymt IRS 240461564036618 (0.00022214903782823)
@@ -58,25 +51,14 @@ Date
 8/10 ACH Web Businessform Deluxeforbusiness 5072270 (00022222905832355)
 8/11 Corporate Ach Veryifyqbw Intuit (00022222909296656)
 8/12 Corporate Ach Veryifyqbw Intuit (00022223912710109)
-
-
 Service Charges and Fees
 Reference
 Date posted number
 8/1 10 Service Charge Period Ending 07/29.2022
 8/4 36 Returned ItemFee (nsf) (00022214903782823)
 8/11 36 Returned ItemFee (nsf) (00022222905832355)
-
-
-
-
-
-
-
 INCOME STATEMENT
-
-INASDAQ:GOOG TTM Q4 2021 Q3 2021 Q2 2021 Q1 2021 Q4 2020 Q3 2020 Q2 2020
-
+NASDAQGOOG TTM Q4 2021 Q3 2021 Q2 2021 Q1 2021 Q4 2020 Q3 2020 Q2 2020
 Gross Profit 1.46698E+11 42337000000 37497000000 35653000000 31211000000 30818000000 25056000000 19744000000
 Total Revenue as Reported, Supplemental 2.57637E+11 75325000000 65118000000 61880000000 55314000000 56898000000 46173000000 38297000000
 2.57637E+11 75325000000 65118000000 61880000000 55314000000 56898000000 46173000000 38297000000
@@ -92,7 +74,6 @@ Total Operating Profit/Loss 78714000000 21885000000 21031000000 19361000000 1643
 Non-Operating Income/Expenses, Total 12020000000 2517000000 2033000000 2624000000 4846000000 3038000000 2146000000 1894000000
 Total Net Finance Income/Expense 1153000000 261000000 310000000 313000000 269000000 333000000 412000000 420000000
 Net Interest Income/Expense 1153000000 261000000 310000000 313000000 269000000 333000000 412000000 420000000
-
 Interest Expense Net of Capitalized Interest -346000000 -117000000 -77000000 -76000000 -76000000 -53000000 -48000000 -13000000
 Interest Income 1499000000 378000000 387000000 389000000 345000000 386000000 460000000 433000000
 Net Investment Income 12364000000 2364000000 2207000000 2924000000 4869000000 3530000000 1957000000 1696000000
@@ -135,10 +116,6 @@ Fiscal year end September 28th., 2022. | USD
 Your federal taxable wages this period are $
 ALPHABET INCOME Advice number:
 1600 AMPIHTHEATRE  PARKWAY MOUNTAIN VIEW CA 94043 2.21169E+13
-
-
-
-
 GOOGL_income-statement_Quarterly_As_Originally_Reported Q4 2021 Q3 2021 Q2 2021 Q1 2021 Q4 2020
 Cash Flow from Operating Activities, Indirect 24934000000 25539000000 37497000000 31211000000 30818000000
 Net Cash Flow from Continuing Operating Activities, Indirect 24934000000 25539000000 21890000000 19289000000 22677000000
@@ -188,8 +165,6 @@ Issuance of/Repayments for Long Term Debt, Net 115000000 -42000000 -1042000000 -
 Proceeds from Issuance of Long Term Debt 6250000000 6350000000 6699000000 900000000 0
 Repayments for Long Term Debt 6365000000 -6392000000 -7741000000 -937000000 -57000000
 Proceeds from Issuance/Exercising of Stock Options/Warrants 2923000000 -2602000000 -2453000000 -2184000000 -1647000000
-
-
 Other Financing Cash Flow 0
 Cash and Cash Equivalents, End of Period 20945000000 23719000000 300000000 10000000 338000000000)
 Change in Cash 25930000000 235000000000) 23630000000 26622000000 26465000000
@@ -199,7 +174,6 @@ Cash Flow Supplemental Section 2774000000) 89000000 266220000000000) 26465000000
 Change in Cash as Reported, Supplemental 13412000000 157000000 -2992000000 6336000000
 Income Tax Paid, Supplemental 2774000000 89000000 2.2677E+15 -4990000000
 Cash and Cash Equivalents, Beginning of Period
-
 12 Months Ended
 _________________________________________________________
 Q4 2020 Q4  2019
@@ -222,13 +196,9 @@ Net income 22677000000 19289000000
 22677000000 19289000000
 Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)
 Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share)
-
-
 For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see the seperate Instructions.
-
 Returned for Signature
 Date.                                                               2022-09-01
-
 IRS RECIEVED
 Department of the Treasury
 Internal Revenue Service
@@ -251,30 +221,11 @@ Income before income taxes 22677000000 19289000000
 Provision for income taxes 22677000000 19289000000
 Net income 22677000000 19289000000
 *include interest paid, capital obligation, and underweighting
-
 Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)
-
-
-
-
-
-
-
-
-
-
 Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share)
 *include interest paid, capital obligation, and underweighting
-
 Basic net income per share of Class A and B common stock and Class C capital stock (in dollars par share)
 Diluted net income per share of Class A and Class B common stock and Class C capital stock (in dollars par share)
-
-
-
-
-
-
-
 20210418
 Rate Units Total YTD Taxes / Deductions Current YTD
 - - 70842745000 70842745000 Federal Withholding 00000 188813800
@@ -284,7 +235,6 @@ Employer Taxes
 FUTA 00000 00000
 SUTA 00000 00000
 EIN: 61-1767919 ID : 00037305581 SSN: 633441725 ATAA Payments 00000 102600
-
 Gross
 70842745000 Earnings Statement
 Taxes / Deductions Stub Number: 1
@@ -293,15 +243,9 @@ Net Pay SSN Pay Schedule Pay Period Sep 28, 2022 to Sep 29, 2023 Pay Date 4/18/2
 70842745000 XXX-XX-1725 Annually
 CHECK NO.
 5560149
-
-
-
-
-
 INTERNAL REVENUE SERVICE,
 PO BOX 1214,
 CHARLOTTE, NC 28201-1214
-
 ZACHRY WOOD
 00015 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000
 For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions. 76033000000 20642000000 18936000000 18525000000 17930000000 15227000000 11247000000 6959000000 6836000000 10671000000 7068000000
@@ -329,12 +273,8 @@ Diluted EPS 00112 00031 00028 00027 00026 00022 00016 00010 00010 00015 00010
 Basic WASO 667650000 662664000 665758000 668958000 673220000 675581000 679449000 681768000 686465000 688804000 692741000
 Diluted WASO 677674000 672493000 676519000 679612000 682071000 682969000 685851000 687024000 692267000 695193000 698199000
 Fiscal year end September 28th., 2022. | USD
-
 Alphabet Investor Relations
 Alphabet Inc. is a holding company that gives ambitious projects the resources, freedom, and focus to make their...
-
-
-*
 633-44-1725 Zachryiixixiiiwood@gmail.com 
 47-2041-6547 111000614 31000053
 PNC Bank 
@@ -359,4 +299,5 @@ EMPLOYER IDENTIFICATION NUMBER: 61-1767919 EMPLOYER IDENTIFICATION NUMBER: 61-17
 ZACHRY T WOOD
 ALPHABET
 5323 BRADFORD DR 
-DALLAS, TX 75235-8314
+DALLAS, TX 75235-8314**
+:Build::
